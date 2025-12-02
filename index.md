@@ -38,7 +38,7 @@ That’s **biomass-flow** in ecology.
 
 That’s **market supply velocity** in economics.
 
-That’s **cognitive processing rate** in neurobiology.
+That’s **cognitive [processing rate](https://ukb-dt.github.io/inv-02/)** in neurobiology.
 
 That’s **value transformation** in social systems.
 
