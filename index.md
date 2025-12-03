@@ -42,7 +42,7 @@ That’s **cognitive [processing rate](https://ukb-dt.github.io/inv-02/)** in ne
 
 That’s **value transformation** in social systems.
 
-That’s **spiritual grace-to-action transmission** in theology.
+That’s **spiritual [grace](https://ukb-dt.github.io/throughput-03/)-to-action transmission** in theology.
 
 And your mom’s observation about matooke in Kampala?
 
